@@ -1,0 +1,13 @@
+{
+    "name": "Omar Faruk",
+    "bio": "With four years of non-professional experience and one year of professional experience as a Frontend Developer. My skills shine in designing smooth website functionality, elegant appearances, and efficient operation.\n\nI'm a dedicated learner, constantly exploring new technologies. I have honed my skills and expertise in backend architecture, design patterns, data structures and algorithms. I've completed numerous personal projects. My next goal is to contribute to the open-source GoLang community.\n\nIn my professional journey, I've thrived in three distinct projects. I architected and developed a JobPortal akin to BDJobs. For Japaha Company LTD, I designed ShikakusSchool, a lightweight Learning Management System (LMS) site, and streamlined operations using Docker, Jenkins, and AWS EC2.\n\nI'm enthusiastic about embracing new challenges and making meaningful contributions.",
+    "designation": "Software Developer | GoLang Enthusiast",
+    "socials": {
+        "facebook": "https://www.facebook.com/omarfaruk0x01",
+        "x": "https://twitter.com/Omar_Faruk_0x01",
+        "linkedin": "https://www.linkedin.com/in/omarfaruk-0x01/",
+        "github": "http://github.com/OmarFaruk-0x01"
+    },
+    "aboutTitle": "Better Code, Better Life",
+    "aboutShort": "Experienced Frontend Dev with 4+ non-pro years and 1 pro year. Strong in web design, eager learner, backend skills, project success. Goal: Open-source GoLang. Notable projects: JobPortal, ShikakusSchool (LMS), Docker, Jenkins, AWS. Thrives on challenges, keen on contributions."
+}

@@ -1,0 +1,47 @@
+[
+    {
+        "slug": "task-manager",
+        "name": "CLI Task Manager with GO",
+        "url": "https://github.com/OmarFaruk-0x01/blog_project",
+        "thumbnail": "https://camo.githubusercontent.com/dd94eb6357ec2e2eba6bbe0ef399c4ceb7c957bda7705631457ccaf941fd09ff/68747470733a2f2f61736369696e656d612e6f72672f612f3539363330342e737667",
+        "description": "The Commander is a flexible and powerful cli tool for running multiple commands simultaneously, with additional features like graceful task termination, keypress interactions, log management, and restart tasks. It provides a simple and intuitive UI to manage concurrent tasks in your Terminal.",
+        "tags": ["GoLang", "Concurrency", "CLI", "Task Manager"],
+        "category": "CLI-Tool",
+        "live": "https://asciinema.org/a/596304",
+        "date": ""
+    },
+    {
+        "slug": "mongo-backup",
+        "name": "Mongo DB Backup Script",
+        "url": "https://github.com/OmarFaruk-0x01/mongo-backup",
+        "thumbnail": "https://opengraph.githubassets.com/7db0858145df3b27fd0ef669dcab39b16a43dfe7d5a1404b7ad6c530d1f37d18/OmarFaruk-0x01/mongo-backup",
+        "description": "This is a GoLang script for backing up MongoDB databases and pushing the backup files to AWS S3. It provides a command-line interface for specifying the MongoDB URI, database name, AWS S3 bucket details, and other options.",
+        "tags": ["GoLang", "CLI", "Backup Tool", "AWS", "S3", "Mongo"],
+        "category": "CLI-Tool",
+        "live": null,
+        "date": ""
+    },
+    {
+        "slug": "umed-blog",
+        "name": "Indie Stack Umed Blog",
+        "url": "https://github.com/OmarFaruk-0x01/blog_project",
+        "thumbnail": "https://i.ibb.co/HnL7dXF/Screenshot-2023-10-26-at-3-07-02-PM.png",
+        "description": "A blog site dedicated to exploring the intriguing world of book duplication. Uncover the history, techniques, and impact of reproducing literary treasures, from ancient manuscripts to modern print-on-demand technology. Discover the magic of books multiplied.",
+        "tags": ["Javascript", "Remix JS", "Tailwind Css", "Prisma"],
+        "category": "Web",
+        "live": "https://blog-gai.fly.dev/",
+        "date": ""
+    },
+    {
+        "slug": "ebr",
+        "name": "Education Board Result (EBR)",
+        "url": "https://github.com/OmarFaruk-0x01/blog_project",
+        "thumbnail": "https://github.com/OmarFaruk-0x01/Education-Board-Results/raw/master/Screenshots/F1.png",
+        "description": "EBR is a mobile version of educationboardresults.gov.bd with some extra features e.g. Generating PDF, and clean UI. The app was made with React Native as a Frontend Technology and Python Flask as a Backend Technology. The app will help those people who can't use websites. People can easily get their results and also generate PDF in one click.\n",
+        "tags": ["Javascript", "React Native", "Native Base", "Python", "Flask", "Mongo"],
+        "category": "Mobile",
+        "live": null,
+        "date": ""
+    }
+
+]
